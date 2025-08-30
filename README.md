@@ -61,6 +61,6 @@ find
 
 ```
 chmod
-sh necromancer.sh
+./necromancer.sh
 ```
 --- 
